@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "checked_at_utc": "2026-11-02T08:04:15Z",
+  "checked_at_beijing": "2026-11-02 16:04:15",
+  "landing": {
+    "url": "https://hermes-agent.nousresearch.com/mobile",
+    "http_status": 200,
+    "firebase_id": "4a0dd1d823648c2f",
+    "firebase_href": "https://appdistribution.firebase.dev/i/4a0dd1d823648c2f",
+    "testflight_code": "U8e1zmbc",
+    "testflight_href": "https://testflight.apple.com/join/U8e1zmbc",
+    "has_reserve_text": true
+  },
+  "testflight": {
+    "U8e1zmbc": {
+      "code": "U8e1zmbc",
+      "url": "https://testflight.apple.com/join/U8e1zmbc",
+      "http_status": 404,
+      "final_url": "https://testflight.apple.com/join/U8e1zmbc",
+      "classification": "invalid_or_removed",
+      "body_snippet": ""
+    }
+  },
+  "firebase": {
+    "href": "https://appdistribution.firebase.dev/i/4a0dd1d823648c2f",
+    "http_status": 301,
+    "redirect_location": "https://appdistribution.firebase.google.com/i/4a0dd1d823648c2f",
+    "redirect_host": "appdistribution.firebase.google.com",
+    "classification": "unverified_login_required"
+  },
+  "github_issue": {
+    "status": "ok",
+    "updated_at": "2026-11-01T21:51:24Z",
+    "comments": 8,
+    "title": "Hermes Mobile Android beta is at the Firebase tester limit",
+    "html_url": "https://github.com/NousResearch/hermes-agent/issues/147269"
+  }
+}
