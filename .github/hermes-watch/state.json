@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "checked_at_utc": "2026-11-03T01:02:46Z",
-  "checked_at_beijing": "2026-11-03 09:02:46",
+  "checked_at_utc": "2026-11-03T07:51:43Z",
+  "checked_at_beijing": "2026-11-03 15:51:43",
   "landing": {
     "url": "https://hermes-agent.nousresearch.com/mobile",
     "http_status": 200,
@@ -30,8 +30,8 @@
   },
   "github_issue": {
     "status": "ok",
-    "updated_at": "2026-11-02T16:29:15Z",
-    "comments": 11,
+    "updated_at": "2026-11-03T04:20:51Z",
+    "comments": 13,
     "title": "Hermes Mobile Android beta is at the Firebase tester limit",
     "html_url": "https://github.com/NousResearch/hermes-agent/issues/147269"
   }
